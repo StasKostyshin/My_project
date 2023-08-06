@@ -1,0 +1,27 @@
+.dropdown-content {
+  display: none;
+}
+
+.dropdown-content-menu {
+    display: none;
+}
+
+body {
+    background-color: #14283C;
+    color: #DC143C;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+a {
+    color: #FF4500;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: #FFFFE0;
+}
